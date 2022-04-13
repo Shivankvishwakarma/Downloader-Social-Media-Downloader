@@ -16,6 +16,9 @@ This repository will be updated soon. Stay tuned for Updates.
 
 # Snapshots
 ![](/snapshots/snap1.png)
+
 ![](/snapshots/snap2.png)
+
 ![](/snapshots/snap3.png)
+
 ![](/snapshots/snap4.png)
