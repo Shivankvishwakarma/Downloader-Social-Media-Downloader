@@ -1,4 +1,4 @@
-# Downloader-Social-Media-Downloader
+# Downloader (Social Media Downloader)
 
 ![Downloader-Ongoing](https://img.shields.io/badge/Downloader-Ongoing-brightgreen)
 ![Release-1.0.0](https://img.shields.io/badge/Release-1.0.0-brightgreen)
