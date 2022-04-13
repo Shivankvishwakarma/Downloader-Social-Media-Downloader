@@ -1,4 +1,10 @@
 # Downloader-Social-Media-Downloader
+
+![](https://img.shields.io/badge/Downloader-Ongoing-brightgreen)
+![](https://img.shields.io/badge/Release-1.0.0-brightgreen)
+![](https://img.shields.io/badge/License-MIT-brightgreen)
+![](https://img.shields.io/badge/Shivank-Vishwakarma-red)
+
 This repository will be updated soon. Stay tuned for Updates.
 # Dependencies
 
