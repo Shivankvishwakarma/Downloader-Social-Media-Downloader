@@ -29,3 +29,7 @@ This repository will be updated soon. Stay tuned for Updates.
 ![](/snapshots/snap3.png)
 
 ![](/snapshots/snap4.png)
+
+![](/snapshots/snap5.png)
+
+![](/snapshots/snap6.png)
