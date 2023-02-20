@@ -22,14 +22,20 @@ This repository will be updated soon. Stay tuned for Updates.
 11. mutagen
 
 # Snapshots
-![](/snapshots/snap1.png)
 
-![](/snapshots/snap2.png)
+![snap1](https://user-images.githubusercontent.com/63019982/220051460-5691a8dc-fcac-4a69-aec9-6b3f5505cbaf.png)
 
-![](/snapshots/snap3.png)
 
-![](/snapshots/snap4.png)
+![snap2](https://user-images.githubusercontent.com/63019982/220051497-51d7b4cb-a000-4b26-bc8a-eb1101873248.png)
 
-![](/snapshots/snap5.png)
 
-![](/snapshots/snap6.png)
+![snap3](https://user-images.githubusercontent.com/63019982/220051511-debf8279-9e1b-455a-8086-b68dba7a086f.png)
+
+
+![snap4](https://user-images.githubusercontent.com/63019982/220051522-5c6fdf06-a941-4e2c-8fd2-a2ccb8784a26.png)
+
+
+![snap5](https://user-images.githubusercontent.com/63019982/220051541-3b646d28-fa00-43df-8be8-04fa4c03601d.png)
+
+
+![snap6](https://user-images.githubusercontent.com/63019982/220051552-84cac17d-e2b1-4679-a902-36031f41bb89.png)
