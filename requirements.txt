@@ -1,0 +1,8 @@
+*. pafy
+*. youtube_dl
+*. pyttsx3
+*. speechrecognition
+*. youtube_search
+*. moviepy
+*. pyaudio
+*. pipwin
